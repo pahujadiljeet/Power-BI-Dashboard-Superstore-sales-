@@ -4,12 +4,16 @@
 
 This repository contains a Power BI dashboard and the Superstore dataset, providing insights into sales, profit, orders, product categories, shipping modes, and regional performance. The dashboard is designed with interactive charts, filters, and drill-downs for in-depth analysis of business performance.
 
-📁 Files in this Repository
-File Name	Description
-Superstore_Sales Dashboard.pbix	Power BI dashboard file with visualizations and analysis
-Sample - Superstore.csv	Raw dataset containing Superstore sales data
-link of dashboard.txt	Contains a link to the published version of the dashboard
-Screenshot/pic.png	First screenshot of the Power BI dashboard
+## 📁 Files in this Repository
+
+| File Name                        | Description                                                 |
+|----------------------------------|-------------------------------------------------------------|
+| `Sample - Superstore.csv`        | Raw dataset containing Superstore sales data                        |
+| `Superstore_Sales Dashboard.pbix`      | Power BI dashboard file with visualizations and analysis |
+| `link of dashboard.txt`         | Contains a link to the published version of the dashboard   |
+| `Screenshot/pic.png`              | First screenshot of the Power BI dashboard      |
+
+---	
 
 🖼️ Dashboard Screenshots
 
